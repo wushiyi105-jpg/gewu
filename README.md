@@ -284,7 +284,7 @@ CI 在 Python 3.10 / 3.11 / 3.12 / 3.13 上跑同一组测试，结果看顶部�
 
 ## 作者
 
-罗盛斓 · [@wushiyi105-jpg](https://github.com/wushiyi105-jpg) · [wushiyi105@gmail.com](mailto:wushiyi105@gmail.com)
+shiyi · [@wushiyi105-jpg](https://github.com/wushiyi105-jpg) · [wushiyi105@gmail.com](mailto:wushiyi105@gmail.com)
 
 ## License
 
