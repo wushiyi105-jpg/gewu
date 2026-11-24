@@ -1,0 +1,6 @@
+# 本项目零第三方依赖,Python 3.10+ 标准库即可运行。
+# 这份文件只为提醒:不需要 pip install 任何东西。
+#
+# 可选:生成 assets/demo.gif 的开发脚本用到了 Pillow
+#   pip install pillow
+# 但运行 gewu 本身不需要它。

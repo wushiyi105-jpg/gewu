@@ -1,0 +1,18 @@
+# ========== 本地环境与产物 ==========
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 每次研究都会落一盘,不进仓库
+runs/
+data/*.log
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
